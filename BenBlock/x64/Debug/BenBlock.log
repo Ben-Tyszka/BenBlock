@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Bencraft.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  Cube.cpp
+  Shader.cpp
+  File.cpp
+  Camera.cpp
+  BMPLoader.cpp
+  Block_Dirt.cpp
+  BenBlock.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  BenBlock.vcxproj -> C:\Users\Ben\Source\Repos\Bencraft\x64\Debug\BenBlock.exe
+  BenBlock.vcxproj -> C:\Users\Ben\Source\Repos\Bencraft\x64\Debug\BenBlock.pdb (Partial PDB)
